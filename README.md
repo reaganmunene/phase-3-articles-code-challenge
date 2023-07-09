@@ -98,7 +98,7 @@ Some of the methods listed are provided to you in the starter code. You should c
 ### Associations and Aggregate Methods
 
 #### Author
-
+  
 - `Author#add_article(magazine, title)`
   - Given a magazine (as Magazine instance) and a title (as a string), creates a new Article instance and associates it with that author and that magazine.
 - `Author#topic_areas`
